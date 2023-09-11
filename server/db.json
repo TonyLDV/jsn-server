@@ -1,0 +1,297 @@
+{
+  "shoes": [
+    {
+      "price": 149.99,
+      "title": "Nike Air Max 1",
+      "url": "https://static.footshop.com/740440-full_product/171394.jpg",
+      "type": "man",
+      "id": 0
+    },
+    {
+      "price": 110,
+      "title": "Adidas  Forum 84 Low",
+      "url": "https://static.footshop.com/752146-full_product/192808.jpg",
+      "type": "man",
+      "id": 1
+    },
+    {
+      "price": 100,
+      "title": "Adidas Terrex Voyager 21",
+      "url": "https://static.footshop.com/759853-full_product/193795.jpg",
+      "type": "man",
+      "id": 2
+    },
+    {
+      "price": 110,
+      "title": "Adidas  Forum 84 Low",
+      "url": "https://static.footshop.com/752146-full_product/192808.jpg",
+      "type": "women",
+      "id": 3
+    },
+    {
+      "price": 149.99,
+      "title": "Nike Air Max 1",
+      "url": "https://static.footshop.com/740440-full_product/171394.jpg",
+      "type": "women",
+      "id": 4
+    },
+    {
+      "price": 110,
+      "title": "Adidas  Forum 84 Low",
+      "url": "https://static.footshop.com/752146-full_product/192808.jpg",
+      "type": "women",
+      "id": 5
+    },
+    {
+      "price": 149.99,
+      "title": "Nike Air Max 1",
+      "url": "https://static.footshop.com/740440-full_product/171394.jpg",
+      "type": "women",
+      "id": 6
+    },
+    {
+      "price": 142.95,
+      "title": "NIKE DUNK HI RETRO",
+      "url": "https://static.footshop.com/752542-full_product/171055.jpg",
+      "type": "man",
+      "id": 7
+    },
+    {
+      "price": 159.99,
+      "title": "NIKE AIR FORCE 1 LOW RETRO",
+      "url": "https://static.footshop.com/835912-full_product/253420.jpg",
+      "type": "man",
+      "id": 8
+    },
+    {
+      "price": 192.95,
+      "title": "Nike Air More Uptempo '96",
+      "url": "https://static.footshop.com/866032-full_product/253441.jpg",
+      "type": "man",
+      "id": 9
+    },
+    {
+      "price": 100,
+      "title": "Adidas Terrex Voyager 21",
+      "url": "https://static.footshop.com/759853-full_product/193795.jpg",
+      "type": "women",
+      "id": 10
+    },
+    {
+      "price": 110,
+      "title": "Adidas  Forum 84 Low",
+      "url": "https://static.footshop.com/752146-full_product/192808.jpg",
+      "type": "women",
+      "id": 11
+    },
+    {
+      "price": 149.99,
+      "title": "Nike Air Max 1",
+      "url": "https://static.footshop.com/740440-full_product/171394.jpg",
+      "type": "women",
+      "id": 12
+    },
+    {
+      "price": 77.95,
+      "title": "Vans Vault OG Old Skool LX",
+      "url": "https://static.footshop.com/306463-full_product/50874.jpg",
+      "type": "man",
+      "id": 13
+    },
+    {
+      "price": 147.95,
+      "title": "adidas Stan Smith Recon",
+      "url": "https://static.footshop.com/837118-full_product/256378.jpg",
+      "type": "man",
+      "id": 14
+    },
+    {
+      "price": 154,
+      "title": "NIKE AIR FORCE 1 '07 FRESH",
+      "url": "https://static.footshop.com/784108/240934.jpg",
+      "type": "man",
+      "id": 15
+    },
+    {
+      "price": 110,
+      "title": "Adidas  Forum 84 Low",
+      "url": "https://static.footshop.com/752146-full_product/192808.jpg",
+      "type": "women",
+      "id": 16
+    },
+    {
+      "price": 149.99,
+      "title": "Nike Air Max 1",
+      "url": "https://static.footshop.com/740440-full_product/171394.jpg",
+      "type": "women",
+      "id": 17
+    },
+    {
+      "price": 137.95,
+      "title": "Nike W Air Force 1 '07 LX",
+      "url": "https://static.footshop.com/862198-full_product/253405.jpg",
+      "type": "man",
+      "id": 18
+    },
+    {
+      "price": 187.95,
+      "title": "Nike W Air Max 1 Safari",
+      "url": "https://static.footshop.com/887596-full_product/253510.jpg",
+      "type": "man",
+      "id": 19
+    },
+    {
+      "price": 184.95,
+      "title": "Nike Zoom Vomero 5 SP",
+      "url": "https://static.footshop.com/829750-full_product/253354.jpg",
+      "type": "man",
+      "id": 20
+    },
+    {
+      "price": 182.95,
+      "title": "New Balance 9060",
+      "url": "https://static.footshop.com/863008-full_product/268597.jpg",
+      "type": "man",
+      "id": 21
+    },
+    {
+      "price": 150,
+      "title": "Asics Gel-Nyc",
+      "url": "https://static.footshop.com/883420-full_product/260992.jpg",
+      "type": "man",
+      "id": 22
+    },
+    {
+      "price": 182.95,
+      "title": "New Balance 9060",
+      "url": "https://static.footshop.com/863887-full_product/268600.jpg",
+      "type": "man",
+      "id": 23
+    },
+    {
+      "price": 167.95,
+      "title": "New Balance 550",
+      "url": "https://static.footshop.com/890509-full_product/268498.jpg",
+      "type": "man",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "email": "test123@gmail.com",
+      "password": "$2a$10$9RUWzs8CHsdQa1her/DtuOr0B9PBg0UHSVBdcEGs4G3rp3rnFlO5.",
+      "name": "qwerqwer",
+      "surname": "werqwr",
+      "userId": "a08a5b6a-27f9-4456-97e6-f60eb02d114b",
+      "id": "yMyoW27"
+    },
+    {
+      "email": "antonyqtz@gmail.com",
+      "password": "$2a$10$kEJTlOBv9DuTxdLo3EamZ.SRACiESGpCgGvDt5BEQIZ4tFxnGvcfa",
+      "name": "Anton",
+      "surname": "Liediaiev",
+      "userId": "aa3c3584-6999-4851-b04f-90a6195cc7c4",
+      "id": "DqBqBeo"
+    },
+    {
+      "email": "twinkwn@gmail.com",
+      "password": "$2a$10$zJl6.wlE06CcY2ZmhRinU.ubaxGRAglbW1WXz00NYEmKb7bAcDLaO",
+      "name": "Rivays",
+      "surname": "qwer",
+      "userId": "fb9d1b13-5b81-472d-b55e-7cb7b9bedced",
+      "id": "MXasUKr"
+    },
+    {
+      "email": "antonyqtz1@gmail.com",
+      "password": "$2a$10$Trlg/xbHgdM.zZZxoAHJJef5Z85TTTDE37pSA2heBjvrLCKqNX2r6",
+      "name": "qwerqwer",
+      "surname": "werqwer",
+      "userId": "3680154f-dc12-493c-b9ce-52994cdf8dc0",
+      "id": "JeeW4FX"
+    },
+    {
+      "email": "1133q@gmail.com",
+      "password": "$2a$10$G9V196RfTbuXwdgsm50deu0hYeUU7DWPq9Lo9jQr1FMdLI8mH4Bo6",
+      "name": "qwerqwer",
+      "surname": "werqwer",
+      "userId": "e0046cdd-b99f-4120-a6af-68955c6e1e8d",
+      "id": "-MOr-n9"
+    }
+  ],
+  "reviews": [
+    {
+      "shoeId": 0,
+      "userName": "User1",
+      "title": "Good",
+      "review": "the Stan Smith is perfect. It's a comfortable shoe but is also the best match with any outfit.",
+      "rating": 4,
+      "id": 0
+    },
+    {
+      "shoeId": 0,
+      "userName": "User2",
+      "title": "Bad",
+      "review": "the Stan Smith is perfect. It's a comfortable shoe but is also the best match with any outfit.",
+      "rating": 2,
+      "id": 1
+    },
+    {
+      "shoeId": 0,
+      "userName": "User3",
+      "title": "Normal",
+      "review": "the Stan Smith is perfect. It's a comfortable shoe but is also the best match with any outfit.",
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "shoeId": 0,
+      "userName": "User4",
+      "title": "Amazing",
+      "review": "the Stan Smith is perfect. It's a comfortable shoe but is also the best match with any outfit.",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "shoeId": 0,
+      "userName": "User5",
+      "title": "Awful",
+      "review": "the Stan Smith is perfect. It's a comfortable shoe but is also the best match with any outfit.",
+      "rating": 1,
+      "id": 4
+    },
+    {
+      "shoeId": 21,
+      "userName": "Anton",
+      "title": "wonderful",
+      "rating": 5,
+      "review": "cool",
+      "id": 5
+    },
+    {
+      "shoeId": 21,
+      "userName": "Anton",
+      "title": "nice",
+      "rating": 5,
+      "review": "nice",
+      "id": 6
+    },
+    {
+      "shoeId": 0,
+      "userName": "Anton",
+      "title": "text",
+      "rating": 1,
+      "review": "text",
+      "id": 7
+    },
+    {
+      "shoeId": 0,
+      "userName": "Anton",
+      "title": "qwer",
+      "rating": 3,
+      "review": "qwer",
+      "id": 8
+    }
+  ],
+  "wishlist": [],
+  "cart": []
+}
